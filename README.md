@@ -24,7 +24,6 @@ let me highlight ==this==
 
 and also to cross ~~this~~
 
-H^2^
 
 ```
 {
